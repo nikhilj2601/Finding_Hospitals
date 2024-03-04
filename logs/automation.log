@@ -1,0 +1,37 @@
+11:31:49.494 [main] INFO  testing.TC001_Doctor_Details - clicked on surgeries
+11:31:49.966 [main] INFO  testing.TC002_Surgeries - scolling down till surgeries 
+11:32:00.353 [main] INFO  testing.TC002_Surgeries - printing surgeries in console 
+11:32:02.231 [main] INFO  testing.TC002_Surgeries - List of surgeries is printed 
+11:32:02.477 [main] INFO  testing.TC002_Surgeries - Navigating to workplace health page 
+11:32:36.825 [main] INFO  testing.TC003_Set_Wrong_Details - scrolling 
+11:32:47.197 [main] INFO  testing.TC003_Set_Wrong_Details - Entering details
+11:32:48.451 [main] INFO  testing.TC003_Set_Wrong_Details - details entered 
+11:32:48.820 [main] INFO  testing.TC003_Set_Wrong_Details -  Wrong details entered verified
+11:32:49.175 [main] INFO  testing.TC003_Set_Wrong_Details - clearing all fields 
+11:33:02.298 [main] INFO  testing.TC004_Set_Correct_Details - Entering details again 
+11:33:05.216 [main] INFO  testing.TC004_Set_Correct_Details - Details entered 
+11:33:05.598 [main] INFO  testing.TC004_Set_Correct_Details - correct details entered 
+11:33:06.207 [main] INFO  testing.TC004_Set_Correct_Details - submit button clicked 
+11:35:16.891 [main] INFO  testing.TC004_Set_Correct_Details - Thank you message displayed 
+12:28:12.017 [main] INFO  testing.BaseClass - WebDriver initiated
+15:15:22.542 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+15:16:12.755 [main] INFO  testing.TC001_Doctor_Details - Visited the correct site
+15:17:04.195 [main] INFO  testing.TC001_Doctor_Details - Selected the city and doctor 
+15:17:04.397 [main] INFO  testing.TC001_Doctor_Details - getting list of doctors 
+15:18:18.023 [main] INFO  testing.TC001_Doctor_Details - Scrolled down 
+15:18:18.233 [main] INFO  testing.TC001_Doctor_Details - printing doctors details in excel
+15:18:23.126 [main] INFO  testing.TC001_Doctor_Details - clicking on surgeries
+15:18:26.589 [main] INFO  testing.TC001_Doctor_Details - clicked on surgeries
+15:18:26.970 [main] INFO  testing.TC002_Surgeries - scolling down till surgeries 
+15:18:37.384 [main] INFO  testing.TC002_Surgeries - printing surgeries in console 
+15:18:38.845 [main] INFO  testing.TC002_Surgeries - List of surgeries is printed 
+15:18:39.098 [main] INFO  testing.TC002_Surgeries - Navigating to workplace health page 
+15:19:27.052 [main] INFO  testing.TC003_Set_Wrong_Details - scrolling 
+15:19:37.450 [main] INFO  testing.TC003_Set_Wrong_Details - Entering details
+15:19:38.588 [main] INFO  testing.TC003_Set_Wrong_Details - details entered 
+15:19:38.967 [main] INFO  testing.TC003_Set_Wrong_Details -  Wrong details entered verified
+15:19:39.278 [main] INFO  testing.TC003_Set_Wrong_Details - clearing all fields 
+15:19:52.301 [main] INFO  testing.TC004_Set_Correct_Details - Entering details again 
+15:19:55.228 [main] INFO  testing.TC004_Set_Correct_Details - Details entered 
+15:19:55.584 [main] INFO  testing.TC004_Set_Correct_Details - correct details entered 
+15:19:56.036 [main] INFO  testing.TC004_Set_Correct_Details - submit button clicked 

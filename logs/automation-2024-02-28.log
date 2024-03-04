@@ -1,0 +1,61 @@
+18:13:03.980 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+18:13:35.483 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+18:14:19.668 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+23:20:46.796 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:21:01.334 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:21:20.067 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+23:29:23.091 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:29:29.535 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:29:46.660 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+23:49:47.730 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:49:47.730 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:49:55.976 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:49:55.977 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:51:03.293 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:51:03.293 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:51:12.478 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:51:12.486 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:51:53.416 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:51:53.416 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:52:03.233 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:52:07.204 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:53:26.765 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:53:26.765 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:55:15.630 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+23:55:23.564 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+23:55:40.816 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+00:00:47.030 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:00:54.806 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:01:50.831 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:01:50.831 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:02:00.339 [TestNG-tests-2] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:02:00.348 [TestNG-tests-1] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:03:03.991 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:03:09.426 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:03:26.494 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+00:07:10.503 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:07:18.250 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:07:35.691 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+00:25:17.670 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:25:30.112 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:25:49.085 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+00:30:10.162 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:30:27.102 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:30:48.898 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+00:44:33.471 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+00:44:43.799 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+00:45:02.862 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+10:40:27.114 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+10:41:00.104 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+10:41:40.419 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+10:55:26.705 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+10:57:29.460 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+10:58:01.286 [main] INFO  testing.TC001_Doctor_Details - Visited the right site
+10:58:41.146 [main] INFO  testing.TC001_Doctor_Details - Selected the city 
+11:28:38.060 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+11:30:14.950 [main] INFO  testing.TC001_Doctor_Details - Selected the city and doctor 
+11:30:15.188 [main] INFO  testing.TC001_Doctor_Details - getting list of doctors 
+11:31:27.531 [main] INFO  testing.TC001_Doctor_Details - printed the list of doctors 
+11:31:37.877 [main] INFO  testing.TC001_Doctor_Details - Scrolled down 
+11:31:38.085 [main] INFO  testing.TC001_Doctor_Details - printing doctors details in excel
+11:31:43.359 [main] INFO  testing.TC001_Doctor_Details - clicking on surgeries
